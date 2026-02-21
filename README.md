@@ -17,8 +17,8 @@ Includes:
 
 Designed as a production-ready template for SaaS dashboards, admin panels, analytics systems, or business management apps.
 
-![Login](./ScreenShots/Login%20Page.png)
+## Login Page
+![Login](./login.png)
 
-### Dashboard Overview
-
-![Overview](./ScreenShots/Dashboard%20Overview.png)
+## Dashboard
+![Dashboard](./dashboard.png)
