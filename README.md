@@ -21,4 +21,4 @@ Designed as a production-ready template for SaaS dashboards, admin panels, analy
 ![Login](./login.png)
 
 ## Dashboard
-![Dashboard](./dashboard.png)
+![Dashboard](./Dashboard-login-sucessfully.png)
